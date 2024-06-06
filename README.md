@@ -13,7 +13,7 @@ This course contains lots of labs for Matplotlib, each lab is a small Matplotlib
 |---------|---------------------------------------------------------|--------------|----------------------------------------------------------------------|
 |     001 | 📖 Demo Tight Layout                                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48689'>Start Lab</a>  |
 |     002 | 📖 Print Stdout Sgskip                                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48882'>Start Lab</a>  |
-|     003 | 📖 Matplotlib Visualization in Python                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48846'>Start Lab</a>  |
+|     003 | 📖 Visualizing Named Colors with Matplotlib              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48846'>Start Lab</a>  |
 |     004 | 📖 Adjusting Matplotlib Drawing Order                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49040'>Start Lab</a>  |
 |     005 | 📖 Matplotlib Plotting for Python Beginners              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48887'>Start Lab</a>  |
 |     006 | 📖 Matplotlib Legend Creation Tutorial                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48942'>Start Lab</a>  |
@@ -38,7 +38,7 @@ This course contains lots of labs for Matplotlib, each lab is a small Matplotlib
 |     025 | 📖 PGF Preamble Sgskip                                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48862'>Start Lab</a>  |
 |     026 | 📖 Matplotlib Plot Title Positioning                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48998'>Start Lab</a>  |
 |     027 | 📖 Matplotlib Python Data Visualization Tutorial         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48800'>Start Lab</a>  |
-|     028 | 📖 Matplotlib Visualization in Python                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48780'>Start Lab</a>  |
+|     028 | 📖 Customizing Matplotlib Visualizations in Python       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48780'>Start Lab</a>  |
 |     029 | 📖 Customizing Matplotlib Defaults with Python           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48646'>Start Lab</a>  |
 |     030 | 📖 Matplotlib Visualization Techniques for Data Analy... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48980'>Start Lab</a>  |
 |     031 | 📖 Creating TickedStroke in Matplotlib                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48992'>Start Lab</a>  |
@@ -63,8 +63,8 @@ This course contains lots of labs for Matplotlib, each lab is a small Matplotlib
 |     050 | 📖 Clipping Images With Patches                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48778'>Start Lab</a>  |
 |     051 | 📖 Create 3D Plots with Error Bars in Python             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48717'>Start Lab</a>  |
 |     052 | 📖 Matplotlib: Error Bar Rendering on Polar Axis         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48873'>Start Lab</a>  |
-|     053 | 📖 Matplotlib 3D Contour Plot                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48625'>Start Lab</a>  |
-|     054 | 📖 Matplotlib 3D Contour Plot                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48630'>Start Lab</a>  |
+|     053 | 📖 Creating 3D Contour Visualizations                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48625'>Start Lab</a>  |
+|     054 | 📖 Create 3D Contour Plots with Matplotlib               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48630'>Start Lab</a>  |
 |     055 | 📖 Matplotlib Quiver Plot                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48894'>Start Lab</a>  |
 |     056 | 📖 Interpolation From Triangular to Quad Grid            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49009'>Start Lab</a>  |
 |     057 | 📖 Matplotlib Infinite Line Visualization                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48570'>Start Lab</a>  |
@@ -94,7 +94,7 @@ This course contains lots of labs for Matplotlib, each lab is a small Matplotlib
 |     081 | 📖 Interactive Colormap Adjustment                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48610'>Start Lab</a>  |
 |     082 | 📖 Basic Errorbar Function                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48716'>Start Lab</a>  |
 |     083 | 📖 Create 3D Plots with Matplotlib in Python             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48848'>Start Lab</a>  |
-|     084 | 📖 Matplotlib 3D Surface Plotting                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48970'>Start Lab</a>  |
+|     084 | 📖 Creating 3D Surface Plots with Matplotlib             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48970'>Start Lab</a>  |
 |     085 | 📖 3D Surface Plotting with Polar Coordinates            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48972'>Start Lab</a>  |
 |     086 | 📖 Combining Subplots With GridSpec                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48757'>Start Lab</a>  |
 |     087 | 📖 3D Contour Plotting with Matplotlib                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48623'>Start Lab</a>  |
@@ -105,7 +105,7 @@ This course contains lots of labs for Matplotlib, each lab is a small Matplotlib
 |     092 | 📖 Create Polar Bar Chart with Python Matplotlib         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48871'>Start Lab</a>  |
 |     093 | 📖 Creating a Color Demo Chart                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48607'>Start Lab</a>  |
 |     094 | 📖 Creating a Line Plot                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48869'>Start Lab</a>  |
-|     095 | 📖 Matplotlib Error Bar Visualization                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48712'>Start Lab</a>  |
+|     095 | 📖 Matplotlib Error Bar Customization                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48712'>Start Lab</a>  |
 |     096 | 📖 Grouped Bar Chart Withels Using Matplotlib            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48579'>Start Lab</a>  |
 |     097 | 📖 Inverting Axes of a Matplotlib Plot                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48790'>Start Lab</a>  |
 |     098 | 📖 Create Polar Line Plots with Python                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48872'>Start Lab</a>  |
@@ -137,7 +137,7 @@ This course contains lots of labs for Matplotlib, each lab is a small Matplotlib
 |     124 | 📖 Major and Minor Ticks in Matplotlib                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48816'>Start Lab</a>  |
 |     125 | 📖 Matplotlib Subplot Creation Tutorial                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48966'>Start Lab</a>  |
 |     126 | 📖 Scatter Plot on Polar Axis                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48875'>Start Lab</a>  |
-|     127 | 📖 Matplotlib Scatter Plot                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48918'>Start Lab</a>  |
+|     127 | 📖 Visualizing Variable Relationships                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48918'>Start Lab</a>  |
 |     128 | 📖 Create Bar Graph with Matplotlib                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48572'>Start Lab</a>  |
 |     129 | 📖 Matplotlib Subplot Arrangement Using HBoxDivider a... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48663'>Start Lab</a>  |
 |     130 | 📖 Matplotlib Colorbar Inset Axes                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48670'>Start Lab</a>  |
@@ -153,7 +153,7 @@ This course contains lots of labs for Matplotlib, each lab is a small Matplotlib
 |     140 | 📖 Matplotlib Visualization Tutorial                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48943'>Start Lab</a>  |
 |     141 | 📖 Annotate Plots with Matplotlib                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48543'>Start Lab</a>  |
 |     142 | 📖 Annotating Matplotlib Plots with Coordinate System... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48545'>Start Lab</a>  |
-|     143 | 📖 Matplotlib Error Bar Visualization                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48714'>Start Lab</a>  |
+|     143 | 📖 Creating Matplotlib Error Bar Plots                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48714'>Start Lab</a>  |
 |     144 | 📖 Overlay Image on Matplotlib Plot                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49029'>Start Lab</a>  |
 |     145 | 📖 Figure Size Units                                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48731'>Start Lab</a>  |
 |     146 | 📖 Nested Pie Charts With Matplotlib                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48847'>Start Lab</a>  |
@@ -165,7 +165,7 @@ This course contains lots of labs for Matplotlib, each lab is a small Matplotlib
 |     152 | 📖 Matplotlib Data Visualization Techniques              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48556'>Start Lab</a>  |
 |     153 | 📖 Interactive Matplotlib Visualization Techniques       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48864'>Start Lab</a>  |
 |     154 | 📖 Matplotlib Fill Between and Alpha                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48733'>Start Lab</a>  |
-|     155 | 📖 Create Filled Contour Plots with Matplotlib           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48627'>Start Lab</a>  |
+|     155 | 📖 Filled Contour Plots with Hatching                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48627'>Start Lab</a>  |
 |     156 | 📖 Creating a Multipage PDF With Matplotlib              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48839'>Start Lab</a>  |
 |     157 | 📖 Matplotlib Plotting with ggplot Style                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48753'>Start Lab</a>  |
 |     158 | 📖 Matplotlib Visualization with XKCD Style              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49037'>Start Lab</a>  |
@@ -188,13 +188,13 @@ This course contains lots of labs for Matplotlib, each lab is a small Matplotlib
 |     175 | 📖 Add Watermark to Matplotlib Plot                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49030'>Start Lab</a>  |
 |     176 | 📖 Create Polar Graphs with Python Matplotlib            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48550'>Start Lab</a>  |
 |     177 | 📖 Annotation Connection Styles                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48617'>Start Lab</a>  |
-|     178 | 📖 Matplotlib Scatter Plot                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48912'>Start Lab</a>  |
+|     178 | 📖 Customizable Scatter Plot Visualization               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48912'>Start Lab</a>  |
 |     179 | 📖 Creating a Bar of Pie Chart                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48574'>Start Lab</a>  |
-|     180 | 📖 Creating Contour Plots with Matplotlib                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48791'>Start Lab</a>  |
+|     180 | 📖 Irregular Data Grid Contour Plotting                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48791'>Start Lab</a>  |
 |     181 | 📖 Programmatically Controlling Subplot Adjustment       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48558'>Start Lab</a>  |
 |     182 | 📖 Formatting Tick Labels with Matplotlib                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48910'>Start Lab</a>  |
 |     183 | 📖 Matplotlib 3D Surface and Contour Plotting            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48624'>Start Lab</a>  |
-|     184 | 📖 Creating Contour Plots with Matplotlib                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48631'>Start Lab</a>  |
+|     184 | 📖 Optimization Contour Plotting with Matplotlib         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48631'>Start Lab</a>  |
 |     185 | 📖 Efficient Line Plotting with Matplotlib               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48804'>Start Lab</a>  |
 |     186 | 📖 Creating a Polygon in Matplotlib                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48878'>Start Lab</a>  |
 |     187 | 📖 Ellipse With Units                                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48699'>Start Lab</a>  |
@@ -213,7 +213,7 @@ This course contains lots of labs for Matplotlib, each lab is a small Matplotlib
 |     200 | 📖 Creating a Pie Chart With Matplotlib                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48867'>Start Lab</a>  |
 |     201 | 📖 Contourf and Log Color Scale                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48628'>Start Lab</a>  |
 |     202 | 📖 Connecting Matplotlib Figure Events                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48602'>Start Lab</a>  |
-|     203 | 📖 Matplotlib Axis Direction                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48567'>Start Lab</a>  |
+|     203 | 📖 Customizing Matplotlib Axis Direction                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48567'>Start Lab</a>  |
 |     204 | 📖 Matplotlib Visualization Fundamentals                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48535'>Start Lab</a>  |
 |     205 | 📖 Matplotlib Game: Pong                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48880'>Start Lab</a>  |
 |     206 | 📖 Matplotlib 2D Data on 3D Plot                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48528'>Start Lab</a>  |
@@ -280,8 +280,8 @@ This course contains lots of labs for Matplotlib, each lab is a small Matplotlib
 |     267 | 📖 Simple Matplotlib Axisline                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48937'>Start Lab</a>  |
 |     268 | 📖 Matplotlib Simple Axisline3                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48938'>Start Lab</a>  |
 |     269 | 📖 Text Alignment in Matplotlib                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48981'>Start Lab</a>  |
-|     270 | 📖 Triangular 3D Contour Plot                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49005'>Start Lab</a>  |
-|     271 | 📖 Triangular 3D Contour Plot                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49006'>Start Lab</a>  |
+|     270 | 📖 Unstructured Triangular Grid Visualization            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49005'>Start Lab</a>  |
+|     271 | 📖 Create Customized 3D Contour Plots                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49006'>Start Lab</a>  |
 |     272 | 📖 Creating and Plotting Triangular Grids                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49011'>Start Lab</a>  |
 |     273 | 📖 More Triangular 3D Surfaces                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49012'>Start Lab</a>  |
 |     274 | 📖 3D Voxel Plotting With Matplotlib                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49028'>Start Lab</a>  |
@@ -306,7 +306,7 @@ This course contains lots of labs for Matplotlib, each lab is a small Matplotlib
 |     293 | 📖 Create Polar Plots with Matplotlib                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48677'>Start Lab</a>  |
 |     294 | 📖 Creating Broken Axis Plots in Python                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48592'>Start Lab</a>  |
 |     295 | 📖 Matplotlib CapStyle Customization                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48597'>Start Lab</a>  |
-|     296 | 📖 Create Filled Contour Plots with Matplotlib           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48626'>Start Lab</a>  |
+|     296 | 📖 Filled Contour Plots with Matplotlib                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48626'>Start Lab</a>  |
 |     297 | 📖 Matplotlib Pie Chart Filter                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48975'>Start Lab</a>  |
 |     298 | 📖 Matplotlib Line Plot With Data Points                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48720'>Start Lab</a>  |
 |     299 | 📖 Create Customized Stock Price Graphs                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48962'>Start Lab</a>  |
@@ -319,7 +319,7 @@ This course contains lots of labs for Matplotlib, each lab is a small Matplotlib
 |     306 | 📖 Custom Mercator Latitude Scale in Matplotlib          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48643'>Start Lab</a>  |
 |     307 | 📖 Creating a Percentiles Horizontal Bar Chart           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48578'>Start Lab</a>  |
 |     308 | 📖 Matplotlib Floating Axes                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48676'>Start Lab</a>  |
-|     309 | 📖 Matplotlib Image Plotting                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48779'>Start Lab</a>  |
+|     309 | 📖 Matplotlib Image Visualization Techniques             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48779'>Start Lab</a>  |
 |     310 | 📖 Creating Scatter Plots With Legends                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48917'>Start Lab</a>  |
 |     311 | 📖 Scatter Hist Locatable Axes                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48913'>Start Lab</a>  |
 |     312 | 📖 Matplotlib Marker Customization Tutorial              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48820'>Start Lab</a>  |
@@ -349,7 +349,7 @@ This course contains lots of labs for Matplotlib, each lab is a small Matplotlib
 |     336 | 📖 Creating a Compound Path                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48614'>Start Lab</a>  |
 |     337 | 📖 Matplotlib Subplot Generation Tutorial                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48678'>Start Lab</a>  |
 |     338 | 📖 Matplotlib Ticklabel Direction                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48688'>Start Lab</a>  |
-|     339 | 📖 Matplotlib Fonts Demo                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48746'>Start Lab</a>  |
+|     339 | 📖 Customizing Text Font Properties                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48746'>Start Lab</a>  |
 |     340 | 📖 Create Multicolored Matplotlib Lines                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48836'>Start Lab</a>  |
 |     341 | 📖 Creating a Sankey Diagram                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48909'>Start Lab</a>  |
 |     342 | 📖 Plotting Sparsity Patterns                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48955'>Start Lab</a>  |
@@ -368,10 +368,10 @@ This course contains lots of labs for Matplotlib, each lab is a small Matplotlib
 |     355 | 📖 Annotate Text Arrow                                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48544'>Start Lab</a>  |
 |     356 | 📖 Plotting With Keywords                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48795'>Start Lab</a>  |
 |     357 | 📖 Creating Custom Colorbar Tickels in Matplotlib        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48609'>Start Lab</a>  |
-|     358 | 📖 Matplotlib Image Plotting                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48660'>Start Lab</a>  |
+|     358 | 📖 Customizing Matplotlib Axes and Colorbars             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48660'>Start Lab</a>  |
 |     359 | 📖 Creating Shaded Relief Plots with Python              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48924'>Start Lab</a>  |
 |     360 | 📖 Custom Hillshading in a 3D Surface Plot               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48644'>Start Lab</a>  |
-|     361 | 📖 Matplotlib 3D Surface Plotting                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48971'>Start Lab</a>  |
+|     361 | 📖 Creating Customized 3D Surface Plots                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48971'>Start Lab</a>  |
 |     362 | 📖 Violin Plotting With Matplotlib                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49023'>Start Lab</a>  |
 |     363 | 📖 Select Indices Using Polygon Selector                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48877'>Start Lab</a>  |
 |     364 | 📖 Matplotlib PSD Plotting                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48884'>Start Lab</a>  |
@@ -388,7 +388,7 @@ This course contains lots of labs for Matplotlib, each lab is a small Matplotlib
 |     375 | 📖 Matplotlib Image Grid Visualization                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48681'>Start Lab</a>  |
 |     376 | 📖 Matplotlib Nested Gridspecs Visualization             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48759'>Start Lab</a>  |
 |     377 | 📖 Custom Matplotlib Grid Axes Creation                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48930'>Start Lab</a>  |
-|     378 | 📖 Matplotlib Visualization in Python                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48551'>Start Lab</a>  |
+|     378 | 📖 Matplotlib Visualizations for Data Analysis           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48551'>Start Lab</a>  |
 |     379 | 📖 Centeringels Between Ticks                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48600'>Start Lab</a>  |
 |     380 | 📖 Annotate Figures with AnnotationBbox                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48659'>Start Lab</a>  |
 |     381 | 📖 Matplotlib Text Rotation                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48686'>Start Lab</a>  |
@@ -421,12 +421,12 @@ This course contains lots of labs for Matplotlib, each lab is a small Matplotlib
 |     408 | 📖 Creating Zoomed Inset With Matplotlib                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48787'>Start Lab</a>  |
 |     409 | 📖 Display Images with Matplotlib                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48789'>Start Lab</a>  |
 |     410 | 📖 Create Customizable Boxplots with Matplotlib          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48595'>Start Lab</a>  |
-|     411 | 📖 Matplotlib Axis Direction                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48665'>Start Lab</a>  |
+|     411 | 📖 Change Axis Direction in Matplotlib                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48665'>Start Lab</a>  |
 |     412 | 📖 Matplotlib 2D Image Plotting with pcolormesh          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48860'>Start Lab</a>  |
 |     413 | 📖 Creating a Scale Invariant Angleel                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48537'>Start Lab</a>  |
 |     414 | 📖 Matplotlib Horizontal Bar Chart                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48581'>Start Lab</a>  |
 |     415 | 📖 Mastering Subplot Customization with GridSpec         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48679'>Start Lab</a>  |
-|     416 | 📖 Matplotlib Fonts Demo                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48747'>Start Lab</a>  |
+|     416 | 📖 Customizing Matplotlib Font Properties                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48747'>Start Lab</a>  |
 |     417 | 📖 Matplotlib GridSpec Layout Visualization              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48758'>Start Lab</a>  |
 |     418 | 📖 Hexagonal Binned Plot                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48765'>Start Lab</a>  |
 |     419 | 📖 Plotting Non-Uniform Images with Matplotlib           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48781'>Start Lab</a>  |
@@ -435,7 +435,7 @@ This course contains lots of labs for Matplotlib, each lab is a small Matplotlib
 |     422 | 📖 Matplotlib Axes Divider                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48931'>Start Lab</a>  |
 |     423 | 📖 Usetex Font Effects                                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49020'>Start Lab</a>  |
 |     424 | 📖 Primary 3D View Planes                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49021'>Start Lab</a>  |
-|     425 | 📖 Matplotlib 3D Voxel Plot                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49027'>Start Lab</a>  |
+|     425 | 📖 Creating 3D Voxel Plots in Matplotlib                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49027'>Start Lab</a>  |
 |     426 | 📖 Custom Tick Formatter for Time Series                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48654'>Start Lab</a>  |
 |     427 | 📖 Ishikawa Diagram Creation                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48792'>Start Lab</a>  |
 |     428 | 📖 Mathtext Wx Sgskip                                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48826'>Start Lab</a>  |
@@ -474,7 +474,7 @@ This course contains lots of labs for Matplotlib, each lab is a small Matplotlib
 |     461 | 📖 Matplotlib Inset Locator                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48786'>Start Lab</a>  |
 |     462 | 📖 Multivariate Normal Distribution Visualizations       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48881'>Start Lab</a>  |
 |     463 | 📖 Simple Axis Pad                                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/71152'>Start Lab</a>  |
-|     464 | 📖 Matplotlib 3D Voxel Plot                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49026'>Start Lab</a>  |
+|     464 | 📖 Create 3D Voxel Plots with RGB                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49026'>Start Lab</a>  |
 |     465 | 📖 Matplotlib Math Rendering Engine                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48824'>Start Lab</a>  |
 |     466 | 📖 Gravitational Simulation of Earth and Super Jupite... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298885'>Start Lab</a> |
 |     467 | 📖 Gtk4 Spreadsheet Sgskip                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48761'>Start Lab</a>  |
