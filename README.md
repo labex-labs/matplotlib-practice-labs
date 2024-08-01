@@ -37,7 +37,7 @@ This course contains lots of labs for Matplotlib, each lab is a small Matplotlib
 |     024 | 📖 Fahrenheit Celsius Scales                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48722'>Start Lab</a> |
 |     025 | 📖 PGF Preamble Sgskip                                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48862'>Start Lab</a> |
 |     026 | 📖 Matplotlib Plot Title Positioning                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48998'>Start Lab</a> |
-|     027 | 📖 Matplotlib Python Data Visualization Tutorial         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48800'>Start Lab</a> |
+|     027 | 📖 Matplotlib Data Visualization Tutorial                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48800'>Start Lab</a> |
 |     028 | 📖 Customizing Matplotlib Visualizations in Python       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48780'>Start Lab</a> |
 |     029 | 📖 Customizing Matplotlib Defaults with Python           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48646'>Start Lab</a> |
 |     030 | 📖 Matplotlib Visualization Techniques for Data Analy... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48980'>Start Lab</a> |
@@ -425,7 +425,7 @@ This course contains lots of labs for Matplotlib, each lab is a small Matplotlib
 |     412 | 📖 Matplotlib 2D Image Plotting with pcolormesh          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48860'>Start Lab</a> |
 |     413 | 📖 Creating a Scale Invariant Angleel                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48537'>Start Lab</a> |
 |     414 | 📖 Matplotlib Horizontal Bar Chart                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48581'>Start Lab</a> |
-|     415 | 📖 Mastering Subplot Customization with GridSpec         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48679'>Start Lab</a> |
+|     415 | 📖 Subplot Customization with GridSpec                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48679'>Start Lab</a> |
 |     416 | 📖 Customizing Matplotlib Font Properties                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48747'>Start Lab</a> |
 |     417 | 📖 Matplotlib GridSpec Layout Visualization              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48758'>Start Lab</a> |
 |     418 | 📖 Hexagonal Binned Plot                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/48765'>Start Lab</a> |
