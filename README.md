@@ -1,6 +1,6 @@
 # Matplotlib Practice Labs
 
-[![Matplotlib Practice Labs](https://cover-creator.appbot.io/matplotlib-practice-labs.png)](https://labex.io/courses/matplotlib-practice-labs)
+[![Matplotlib Practice Labs](https://cover-creator.labex.io/matplotlib-practice-labs.png)](https://labex.io/courses/matplotlib-practice-labs)
 
 [![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/courses/matplotlib-practice-labs)
 
@@ -15,7 +15,7 @@ LabEx is an interactive, hands-on learning platform dedicated to coding and tech
 
 ![](https://tutorial-screenshot.getvm.io/images/vm-1725247253.png)
 
-- A strict “Learn by Doing” approach with exclusive hands-on labs and no videos.
+- A strict "Learn by Doing" approach with exclusive hands-on labs and no videos.
 - Interactive online environments within the browser, with automated step-by-step checks.
 - A structured content organization with the Skill Tree based learning system.
 - A growing learning resource of 30 Skill Trees and over 6,000 Labs.
@@ -25,9 +25,9 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                                    | Difficulty   | Practice                                                                                                                                         |
-|---------|---------------------------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
-|     001 | 📖 Demo Tight Layout                                     | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/matplotlib-demo-tight-layout-48689'>Start Lab</a>                                            |
+|   Index | Name                                                     | Difficulty   | Practice                                                                                                                                         |
+|---------|----------------------------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+|     001 | 📖 Demo Tight Layout                                     | ★★☆          | <a target='_blank' href='https://labex.io/tutorials/matplotlib-demo-tight-layout-48689'>Start Lab</a>                                            |
 |     002 | 📖 Print Stdout Sgskip                                   | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/matplotlib-print-stdout-sgskip-48882'>Start Lab</a>                                          |
 |     003 | 📖 Visualizing Named Colors with Matplotlib              | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-visualizing-named-colors-with-matplotlib-48846'>Start Lab</a>                         |
 |     004 | 📖 Adjusting Matplotlib Drawing Order                    | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/matplotlib-adjusting-matplotlib-drawing-order-49040'>Start Lab</a>                           |
@@ -170,7 +170,7 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 |     141 | 📖 Annotate Plots with Matplotlib                        | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-annotate-plots-with-matplotlib-48543'>Start Lab</a>                                   |
 |     142 | 📖 Annotating Matplotlib Plots with Coordinate System... | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-annotating-matplotlib-plots-with-coordinate-systems-48545'>Start Lab</a>              |
 |     143 | 📖 Creating Matplotlib Error Bar Plots                   | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-creating-matplotlib-error-bar-plots-48714'>Start Lab</a>                              |
-|     144 | 📖 Overlay Image on Matplotlib Plot                      | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-overlay-image-on-matplotlib-plot-49029'>Start Lab</a>                                 |
+|     144 | 📖 Overlay Image on Matplotlib Plot                      | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/matplotlib-overlay-image-on-matplotlib-plot-49029'>Start Lab</a>                             |
 |     145 | 📖 Figure Size Units                                     | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-figure-size-units-48731'>Start Lab</a>                                                |
 |     146 | 📖 Nested Pie Charts with Matplotlib                     | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-nested-pie-charts-with-matplotlib-48847'>Start Lab</a>                                |
 |     147 | 📖 Matplotlib Offset Copy                                | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-matplotlib-offset-copy-49001'>Start Lab</a>                                           |
@@ -320,7 +320,7 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 |     291 | 📖 Matplotlib Visualization Control in Python            | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-matplotlib-visualization-control-in-python-48563'>Start Lab</a>                       |
 |     292 | 📖 Labeling Ticks Using Engineering Notation             | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-labeling-ticks-using-engineering-notation-48711'>Start Lab</a>                        |
 |     293 | 📖 Create Polar Plots with Matplotlib                    | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-create-polar-plots-with-matplotlib-48677'>Start Lab</a>                               |
-|     294 | 📖 Creating Broken Axis Plots in Python                  | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-creating-broken-axis-plots-in-python-48592'>Start Lab</a>                             |
+|     294 | 📖 Creating Broken Axis Plots in Python                  | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/matplotlib-creating-broken-axis-plots-in-python-48592'>Start Lab</a>                         |
 |     295 | 📖 Matplotlib CapStyle Customization                     | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/matplotlib-matplotlib-capstyle-customization-48597'>Start Lab</a>                            |
 |     296 | 📖 Filled Contour Plots with Matplotlib                  | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-filled-contour-plots-with-matplotlib-48626'>Start Lab</a>                             |
 |     297 | 📖 Matplotlib Pie Chart Filter                           | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-matplotlib-pie-chart-filter-48975'>Start Lab</a>                                      |
@@ -347,13 +347,13 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 |     318 | 📖 Align Matplotlib Axis Labels                          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/matplotlib-align-matplotlib-axis-labels-48533'>Start Lab</a>                                 |
 |     319 | 📖 Changing Line Colors of a Rectangle                   | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-changing-line-colors-of-a-rectangle-48585'>Start Lab</a>                              |
 |     320 | 📖 Matplotlib Date Precision and Epochs                  | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-matplotlib-date-precision-and-epochs-48655'>Start Lab</a>                             |
-|     321 | 📖 Formatting Currency Plots with Matplotlib             | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-formatting-currency-plots-with-matplotlib-48691'>Start Lab</a>                        |
+|     321 | 📖 Formatting Currency Plots with Matplotlib             | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/matplotlib-formatting-currency-plots-with-matplotlib-48691'>Start Lab</a>                    |
 |     322 | 📖 Matplotlib Math Fontfamily                            | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-matplotlib-math-fontfamily-48825'>Start Lab</a>                                       |
 |     323 | 📖 Mapping Marker Properties to Multivariate Data        | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-mapping-marker-properties-to-multivariate-data-48845'>Start Lab</a>                   |
 |     324 | 📖 Create 3D Scatterplot with Python Matplotlib          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-create-3d-scatterplot-with-python-matplotlib-48919'>Start Lab</a>                     |
 |     325 | 📖 Python Matplotlib Unit Conversions                    | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-python-matplotlib-unit-conversions-49018'>Start Lab</a>                               |
 |     326 | 📖 Matplotlib Histogram Visualization Using BMH Style    | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-matplotlib-histogram-visualization-using-bmh-style-48586'>Start Lab</a>               |
-|     327 | 📖 Placing Text Boxes in Matplotlib                      | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-placing-text-boxes-in-matplotlib-48868'>Start Lab</a>                                 |
+|     327 | 📖 Placing Text Boxes in Matplotlib                      | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/matplotlib-placing-text-boxes-in-matplotlib-48868'>Start Lab</a>                             |
 |     328 | 📖 Matplotlib Anchored Direction Arrow                   | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-matplotlib-anchored-direction-arrow-48658'>Start Lab</a>                              |
 |     329 | 📖 Create Image Grid with Matplotlib                     | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-create-image-grid-with-matplotlib-48661'>Start Lab</a>                                |
 |     330 | 📖 Matplotlib RGB Channels Visualization                 | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-matplotlib-rgb-channels-visualization-48664'>Start Lab</a>                            |
